@@ -537,7 +537,7 @@ height: 72px;
 
 
 .addition-link:hover .overlay-text,
-.addition-link:focus, .overlay-text {
+.addition-link:focus .overlay-text {
     transform: translateY(0%);
 }
 
